@@ -5,34 +5,21 @@
 // import Parent from "./Props/Parent";
 /* import ClassComponent from "./Basic/ClassComponent"; */
 /* import FunctionalComponent from "./Basic/FunctionalComponent"; */
-/* import Counter from "./Hooks/UseStateExample"; */
+import Counter from "./Hooks/UseStateExample";
 /* import ParentComponent from "./Props/ParentComponent"; */
 // import UncontrolledInput from "./Basic/UncontrolledComponent";
 // import ControlledInput from "./Basic/ControlledComponent";
 // import EventHandling from "./Basic/EventHandling";
-
-import SwapListMultipleElement from "./ReactCodingPractice/SwapListMultipleElement";
-
 // import SwapListSingleElement from "./ReactCodingPractice/SwapListSingleElement";
-
 // import RouterExample from "./ReactRouter/RouterExample";
-
 // import LoadingSpinner from "./HigherOrderComponent/LoadingSpinner";
-
 // import EventDelegationUsingHooks from "./EventDelegation/EventDelegationUsingHooks";
-
 // import EventDelegation from "./EventDelegation/EventDelegation";
-
 // import UseReducerCounter from "./Hooks/UseReducerCounter";
-
 /* import UseCallBackExample from "./Hooks/UseCallBackExample"; */
-
 // import UseMemoExample from "./Hooks/UseMemoExample";
-
 // import ContextParent from "./Hooks/UseContextPropDrilling/ContextParent";
-
 //import ThemeConsumer from "./Hooks/UseContextExample";
-
 // import ContextDemo from "./Hooks/UseContextExample";
 
 const App = () => {
@@ -45,11 +32,11 @@ const App = () => {
       {/* <MapinReact /> */}
       {/*  <FunctionalComponent /> */}
       {/*  <ClassComponent /> */}
-      {/*  <Counter /> */}
+      <Counter />
       {/*  <ParentComponent /> */}
       {/*   <DataFetcher /> */}
       {/* <ThemedButton /> */}
-      {/* <EventHandling /> */}
+      {/*  <EventHandling />  */}
       {/* <UncontrolledInput /> */}
       {/* <ContextDemo /> */}
       {/* <ThemeConsumer /> */}
@@ -57,12 +44,11 @@ const App = () => {
       {/*  <UseMemoExample /> */}
       {/* <UseCallBackExample /> */}
       {/* <UseReducerCounter /> */}
-      {/* <EventDelegation /> */}
+      {/*   <EventDelegation /> */}
       {/* <EventDelegationUsingHooks /> */}
       {/* <LoadingSpinner /> */}
       {/* <RouterExample /> */}
       {/* <SwapListSingleElement /> */}
-      <SwapListMultipleElement />
     </div>
   );
 };
