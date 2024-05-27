@@ -1,2 +1,5 @@
-# React-Concept-Code-Examples
-This Repo contains demonstration  of react concepts via code
+This is simple Hello World React starter project with vite configuration.
+
+The repository contains minimum configuration for bootstrapping a React project in no time.
+
+
